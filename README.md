@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
 </p> 
 
--
+
 - 🏢 I'm a graduated from the Faculty of Computers and Artificial Intelligence at Cairo University
 - 👨‍💻 I'm a software engineer, always learning and exploring new technologies to enhance my skills.
 - 💬 Ask me about my experience with c++ , c#, python ,  Git, GitHub ,.net and django.

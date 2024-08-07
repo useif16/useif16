@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" >
 <h3 align="center">
   <br>
-  Welcome to Yousef Sultan's profile!
+  Hi there! I'm Yousef Sultan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -20,16 +20,37 @@
 ### Connect with Me :
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soltanyousef23@gmail.com)](mailto:soltanyousef23@gmail.com)
+<a href="https://soltanyousef23@gmail.com"><img src="https://img.shields.io/badge/-Yousef Sultan-informational?style=plastic&amp;labelColor=blue&amp;logo=Gmail&amp;link=https://soltanyousef23@gmail.com" alt="Gmail Badge"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%20C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-05122A?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/django--05122A?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
 
